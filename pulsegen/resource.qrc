@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/nikhef.png</file>
+        <file>img/led.png</file>
+        <file>img/ledgrey.png</file>
+    </qresource>
+</RCC>
